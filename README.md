@@ -17,3 +17,5 @@ __жирный текст__
 ### Заголовок 3 Такой же
 
 ~~зачеркнутый текст~~
+
+![Kartinka](https://github.com/[Mark2816387]/[test]/blob/[fix/README]/screenshot-2297-1200x800_1647945204.jpg?raw-true)
