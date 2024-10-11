@@ -17,3 +17,5 @@ __жирный текст__
 ### Заголовок 3 Такой же
 
 ~~зачеркнутый текст~~
+
+![screenshot-2297-1200x800_1647945204](https://github.com/user-attachments/assets/7aa06d6c-14f0-4dbe-9303-f7d96638eba0)
